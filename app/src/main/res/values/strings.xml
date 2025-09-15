@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">upBlocker</string>
+    <string name="service_notification_title">upBlocker Active</string>
+    <string name="service_notification_text">Filtering network traffic</string>
+</resources>
